@@ -60,7 +60,6 @@ function Contact() {
     ).then((r) => r.json());
     }
   
-//  CLOUDINARY_URL=cloudinary://379268453157235:g44NfMlYXL9XaA0rgt0xBtJI_FM@dhe0tqa7q
   return (
     <Layout>
       <Container>
